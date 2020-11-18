@@ -20,6 +20,12 @@ The following can be used as a template or rubric for a phase 1 review.
 ### Project Goals and Mission Statement
 
 ### License
+- [ ] A standard license file has been added named "LICENSE".  The recommended licenses are: MIT or apache2
+- [ ] Copyrights notices should be the appropriate parent institution for example: `Copyright 20xx University of Illinois`, or `Copyright 20xx The Regents of the University of California`
+
+#### References
+https://copyright.illinois.edu/  
+https://copyright.universityofcalifornia.edu/  
 
 ### User Classes: Section 3.1
 Descriptions of user classes are critical for designing quality features that address the intended user(s) requirements.  Care should be taken during phase 1 to carefully consider the intended set of users of the project.  Below are a set of criteria to use when evaluating each user class:  
