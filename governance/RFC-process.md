@@ -2,6 +2,8 @@
 
 nanoMFG RFC submissions generally apply to pre-approved projects that have arrived via whitepaper or through nanoMFG node sponsorship.  The RFC process is used to facilitate community feedback as these projects progress and communicate broadly upcoming software releases and features.
 
+### SPD Authors
+
 1. Submit your current Software Planning Document (SPD) draft as a RFC via a GitHub pull request to community/rfcs directory.  The pull request should be from a branch that you create with some descriptive name into the master branch of the community repo. 
 
    Name your RFC file based on the [SPD template](https://github.com/nanoMFG/community/blob/master/rfcs/YYYYMMDD-descriptive-name.md) `YYYYMMDD-descriptive-name.md`, where
@@ -24,7 +26,9 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
 
 5. A review committee will be formed, and permissions disseminated.  Once the RFC has been received, it will be opened by the review committee for a period of about 2 weeks.
 
+### SPD Reviewers
 
-After the initial phase 1 planning review, the PR will remain open.  The status will progress to the next phase and subsequent phase 2, 3 and 4 reviews opened as needed.  Only after the phse 4 implementation review will a SPD RFC be closed and merged as a final document in the `rfcs` directory.
+
+After the initial phase 1 planning review, the PR will remain open.  The status will progress to the next phase and subsequent phase 2, 3 and 4 reviews opened as needed.  Only after the phase 4 implementation review will a SPD RFC be closed and merged as a final document in the `rfcs` directory.
 
 
