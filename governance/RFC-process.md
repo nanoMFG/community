@@ -27,7 +27,13 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
 5. A review committee will be formed, and permissions disseminated.  Once the RFC has been received, it will be opened by the review committee for a period of about 2 weeks.
 
 ### SPD Reviewers
+The primary review mechinism used for nanoMFG RFCs is the GitHub pull request.  For general info about pull requests refer to:  
+[About Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)  
+[About Pull Request Reviews](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)  
+For particular documentation about entering reviews for nanoMFG software planning documents (SPDs) see the review guides for the particular phase located in the `governace` directory of the community repo:  
+* Phase 1: [planning review](https://github.com/nanoMFG/community/blob/master/governance/planning-review.md)  
 
+### Additional Notes
 
 After the initial phase 1 planning review, the PR will remain open.  The status will progress to the next phase and subsequent phase 2, 3 and 4 reviews opened as needed.  Only after the phase 4 implementation review will a SPD RFC be closed and merged as a final document in the `rfcs` directory.
 
