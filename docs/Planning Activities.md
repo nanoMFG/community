@@ -21,6 +21,7 @@
 
 # phase: 1
 ## Review GitHub Accounts and Team Membership
+
 Phase | Activity Type | Work Estimate
 ---|---|---
 phase: 1 | None | 1 
