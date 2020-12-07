@@ -24,7 +24,8 @@
 
 Phase | Activity Type | Work Estimate
 ---|---|---
-phase: 1 | None | 1 
+phase: 1 | None | 1
+
 ### Summary
 Review GitHub account details for team members and create a project development team.  A GitHub team should to be created for each group of collaborators developing one or more nanoHUB tool(s).
 
