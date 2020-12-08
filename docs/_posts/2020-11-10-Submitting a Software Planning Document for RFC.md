@@ -9,4 +9,9 @@ and find the `rfcs` folder: https://github.com/nanoMFG/community/tree/master/rfc
 Notes:  
 * After adding the file, use the "Create a new branch for this commit and start a pull request" option to automatically create a PR.  
 * If submitting from an external commit/push, you must push to a branch other than `master`.  Then open a PR from that branch to master to server as
-the RFC PR. 
+the RFC PR.  
+
+## Resources
+
+[about pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+[Into to Github learning lab](https://lab.github.com/githubtraining/introduction-to-github)
