@@ -13,5 +13,5 @@ the RFC PR.
 
 ## Resources
 
-[about pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-[Into to Github learning lab](https://lab.github.com/githubtraining/introduction-to-github)
+[about pull requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)  
+[Intro to Github learning lab](https://lab.github.com/githubtraining/introduction-to-github)
