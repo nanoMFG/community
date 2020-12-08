@@ -32,6 +32,7 @@ The nanoMFG request for comment (RFC) process uses software planning documents (
 The primary review mechinism used for nanoMFG RFCs is the GitHub pull request.  For general info about pull requests refer to:  
 [About Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)  
 [About Pull Request Reviews](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)  
+[GitHub Learning Lab: Reviewing Pull Requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 For particular documentation about entering reviews for nanoMFG software planning documents (SPDs) see the review guides for the particular phase located in the `governace` directory of the community repo:  
 * Phase 1: [planning review](https://github.com/nanoMFG/community/blob/master/governance/planning-review.md)  
 
