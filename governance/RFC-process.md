@@ -4,7 +4,9 @@ nanoMFG RFC submissions generally apply to pre-approved projects that have arriv
 
 ### SPD Authors
 
-1. Submit your current Software Planning Document (SPD) draft as a RFC via a GitHub pull request to community/rfcs directory.  The pull request should be from a branch that you create with some descriptive name into the master branch of the community repo. 
+The nanoMFG request for comment (RFC) process uses software planning documents (SPDs) that are submitted to the nanoMFG/community repo via a GitHub pull request (PR).  Note that if you have a SPD draft in a differnt repo, you will need to copy it into the nanoMFG/community repo and open a PR in order to initiate the RFC process
+
+1. Submit your current Software Planning Document (SPD) draft as a RFC via a **GitHub pull request(PR) to community/rfcs directory**.  The pull request should be from a branch that you create with some descriptive name into the master branch of the community repo. 
 
    Name your RFC file based on the [SPD template](https://github.com/nanoMFG/community/blob/master/rfcs/YYYYMMDD-descriptive-name.md) `YYYYMMDD-descriptive-name.md`, where
    YYYYMMDD is the date of submission, and ‘descriptive-name’ relates to the
