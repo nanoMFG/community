@@ -8,6 +8,7 @@ For those with new membership to github.com/nanoMFG, and/or those ready to start
    - Add a description<br>
    - Select a template such as "toolstart-jupyter" for a new jupyter notebook tool.  
 Make the repo public if you intent to release via open source or private if you want to keep hidden until release.  
+
 4) Refer to the [first planning activity](https://nanomfg.github.io/community/Planning%20Activities#review-github-accounts-and-team-membership) to create a project team so all of your collaborators have access.
 
 ## References
