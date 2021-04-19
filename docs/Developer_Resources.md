@@ -60,6 +60,7 @@ Jupyter notebooks are great, but the nice features also lead to some annoying pr
 [Making Git and Jupyter Notebooks play nice](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/)
 
 <a name="zh"/>
+<!--
 ## ZenHub Extensions to Github
 Zenhub is a set of extensions to the GitHub platform that add project management features such as:
 * Epics
@@ -79,7 +80,8 @@ The Firefox/chrome browser extension will add a ZenHub tab to your repositories 
 
 * [Create an Epic](https://www.zenhub.com/guides/getting-started-with-epics-in-zenhub#creating-epics-in-zenhub)
 * [Create a multi-repo board](https://www.zenhub.com/guides/creating-a-multi-repo-board)
-
+-->
+<a name="nanohub">
 # NanoHub Links
 
 <a name="nd"/>
