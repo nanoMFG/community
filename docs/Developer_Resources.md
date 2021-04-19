@@ -5,6 +5,8 @@
 
 [nanoHub and Tool Development](#nanohub)
 
+[Register as a New Developer on nanoHuB](#nd)
+
 [Ownership, Authorship and Licenses](#owner)
 
 <a name="vc"/>
@@ -80,6 +82,7 @@ The Firefox/chrome browser extension will add a ZenHub tab to your repositories 
 
 # NanoHub Links
 
+<a name="nd"/>
 ### New Developers
 [Register](https://nanohub.org/register/)<br/>
 * Note: It is better to create a full login/username rather than using the institutional login.  Usernames can be added to an institutional account, but it is good to have one from the beginning as a developer.<br/>
