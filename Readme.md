@@ -14,5 +14,10 @@ The `community` repository stores documents used by the developer community.
 [Two Photon Lithography Variable Analysis](https://nanohub.org/tools/tplvaranlz/)  
 [Kirigami Design and analysis](https://nanohub.org/tools/gamian)  
 [SEM Image Processing Tool](https://nanohub.org/tools/gsaimage/)  
+[Graphene Raman Fitting Tool](https://nanohub.org/tools/graft/)  
+[Gr-ResQ](https://nanohub.org/tools/gresq/)  
+[Image Segment](https://nanohub.org/tools/imagesegment/)  
+[nanoDrill](https://nanohub.org/tools/nanodrill)  
+[mavelp](https://nanohub.org/tools/mavelp)
 
 
